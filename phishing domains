@@ -2,7 +2,7 @@
 #This list was deployed personally by me using pfsense 2.4.5 and pfblockerNG-3-devel So far my results have been pratical :) 
 #I've manged to block lots of typos, I will also update this list with new domains as new phishing attemps come out.
 #In this list you will find active phishing/dodgy domains for majority of mainstream services(adult services inc) 
-#Made by MXNovah/Steve0W3N github:https://github.com/Steve0w3n
+#Made by MXNovah/Steve0W3N github:https://github.com/MXNovah
 #You can also CTRL + F to search for a service i.e netflix, google, amazon, etc
 #Last updated:27/12/2020
 #Google phishing domains
