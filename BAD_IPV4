@@ -1,3 +1,4 @@
+#IP grabbed via ssh honeypot, mostly crawlers, bots and script kiddies.
 80.240.49.14
 45.227.255.207 #interesting ip
 193.239.147.90
@@ -19,3 +20,4 @@
 125.212.233.153
 182.61.40.252
 35.224.142.184# Google Instance.
+#Ips grabbed via apache honeypot. Mostly probing for web apps etc
