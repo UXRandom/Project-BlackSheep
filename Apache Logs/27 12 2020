@@ -1,3 +1,5 @@
+#Nothing much interesting in this log just looks like someone using bruteforce attack(possibly dirbuster) to look for files or directories on the server.
+#What they dont know is half of these files dont even exist because it is a default apache install with a fake website lol.
 181.94.78.232 - - [27/Dec/2020:00:17:55 +0000] "GET / HTTP/1.0" 200 11192 "-" "-"
 45.155.205.108 - - [27/Dec/2020:00:20:14 +0000] "POST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 454 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 45.155.205.108 - - [27/Dec/2020:00:20:14 +0000] "POST /api/jsonws/invoke HTTP/1.1" 404 454 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
