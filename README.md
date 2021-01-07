@@ -1,5 +1,5 @@
 # Project-BlackSheep
-Project blacksheep is a project i started to study, share and mitigate the amount of current cyber attacks on the web, this repo if here as a resource to share knowledge about known bad ip addresses, active malware samples, and phishing/tracking domains 
+Project blacksheep is a project i started to study, share and mitigate the amount of current cyber attacks & tracking on the web, this repo if here as a resource to share knowledge about known bad ip addresses, active malware samples, and phishing/tracking domains 
 This includes:
 - Bad ipv4 Addresses captured via honeypot
 - Blocklists for active phishing sites and advertisement trackers, browser miners etc. overall just a list of crap to filter out the internet.
