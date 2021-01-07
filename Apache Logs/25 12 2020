@@ -1,6 +1,6 @@
 193.239.84.114 - - [24/Dec/2020:08:26:10 +0000] "GET / HTTP/1.1" 200 3477 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
-193.239.84.114 - - [24/Dec/2020:08:26:10 +0000] "GET /icons/ubuntu-logo.png HTTP/1.1" 200 3623 "http://51.75.64.151/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
-193.239.84.114 - - [24/Dec/2020:08:26:11 +0000] "GET /favicon.ico HTTP/1.1" 404 490 "http://51.75.64.151/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+193.239.84.114 - - [24/Dec/2020:08:26:10 +0000] "GET /icons/ubuntu-logo.png HTTP/1.1" 200 3623 "http://SERVER_ADDR/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+193.239.84.114 - - [24/Dec/2020:08:26:11 +0000] "GET /favicon.ico HTTP/1.1" 404 490 "http://SERVER_ADDR1/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
 193.239.84.114 - - [24/Dec/2020:08:27:02 +0000] "-" 408 0 "-" "-"
 103.91.62.98 - - [24/Dec/2020:09:14:47 +0000] "GET / HTTP/1.1" 200 11173 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"
 37.187.74.109 - - [24/Dec/2020:09:21:57 +0000] "POST /xmlrpc.php HTTP/1.1" 404 492 "http://www.google.com.hk" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
