@@ -7,7 +7,7 @@ This includes:
 - Malformed Get and post requests and raw logs from an apache honeypot
 - Common credits used for attacking servers
 - User agent string Dictionary for Bots and Crawlers (check UAS)
-[img]https://twilio-cms-prod.s3.amazonaws.com/images/bots-bots-everywhere.width-808.jpg[/img]
+
 #
 I deployed the blocklists using pfblockerNG on pfsense 2.4.5-devel, You can use a alternative such as pi-hole however I do not support installs on pi-hole.
 If you would like to report a false positive or a issue/feature please make a issue request and I will get back to you as soon as possible! 
