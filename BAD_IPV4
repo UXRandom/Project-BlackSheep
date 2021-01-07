@@ -32,8 +32,11 @@
 182.61.40.252 
 35.224.142.184# Google Instance spreading w0rmer irc botnet. uses curl and wget to download a file called bot.pl, Which is a irc botnet used to ddos things
 119.147.213.57# Chinese server Hosting bot.pl as mentioned in the line above, I wanna say it was highly likely someone hacked this server to host the script.
+#############################################################################################################################################################
 #Apache honeypot. These ip addresses have been captured inputing malformed input or requesting/looking for vuln page or a page that isnt on the server(Mostly Bots)
-#I will also post the user agent string and what it requested if there is anything interesting. most of them are using a default browser uas to evade detection i.e #chrome, firefox, etc
+#I will also post the user agent string and what it requested if there is anything interesting. most of them are using a default browser uas to evade 
+#detection i.e chrome, firefox, etc
+#############################################################################################################################################################
 129.146.190.190 Attack from IDBTE4M CODE87(Hacker crew?) Quick google search for that string brough back a bunch of hacked websites. "GET /.env HTTP/1.1"
 45.229.54.135 # Trying to shell apache instance
 172.104.242.173 # "\xba\xabd\xa1EZC\xdbM\x87\xee^\xfd\xbf\x159 X\xd4>\x12\x98\xc4<\xe0\x13\xcf" 400 0 "-" "-"
