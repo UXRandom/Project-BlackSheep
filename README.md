@@ -1,7 +1,8 @@
 # Project-BlackSheep
 Project blacksheep is a project i started to study, share and mitigate the amount of current cyber attacks & tracking on the web, this repo is here as a resource to share knowledge about known bad ip addresses, active malware samples, and phishing/tracking domains. 
 This includes:
-- Bad ipv4 Addresses captured via honeypot
+- Bad ipv4 Addresses captured via ssh & telnet honeypot
+- Bad ipv4 Addresses Captured via http honeypot(ip addresses of web attackers)
 - Blocklists for active phishing sites and advertisement trackers, browser miners etc. overall just a list of crap to filter out the internet.
 - Malware Samples captured via honeypot for further analysis (I am not held responsible for what ever happens to you or your servers/computers/network)
 - Malformed Get and post requests and raw logs from an apache honeypot
