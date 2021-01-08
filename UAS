@@ -6,3 +6,6 @@ HTTP/1.1" 404 454 "-" "ZmEu"
 "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)"
 "Mozilla/5.00 (Nikto/2.1.6)" #Web vuln scanning tool https://tools.kali.org/information-gathering/nikto
 "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+"PycURL/7.43.0 libcurl/7.47.0 GnuTLS/3.4.10 zlib/1.2.8 libidn/1.32 librtmp/2.3"
+"Python-urllib/2.7"
+"Python-urllib/1.17"
