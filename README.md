@@ -6,6 +6,7 @@ This includes:
 - Blocklists for active phishing sites and advertisement trackers, browser miners etc. overall just a list of crap to filter out the internet.
 - Malware Samples captured via honeypot for further analysis (I am not held responsible for what ever happens to you or your servers/computers/network)
 - Malformed Get and post requests and raw logs from an apache honeypot
+- Prevent Government and agency tracking
 - Common credits used for attacking servers
 - User agent string Dictionary for Bots and Crawlers (check UAS)
 
