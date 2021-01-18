@@ -4,7 +4,7 @@
 # '*' for password allows any password
 # '!' at the start of a password will not grant this password access
 # '/' can be used to write a regular expression 
-#
+#These are common user accounts that people use to login to my honeypot
 root:x:!root
 root:x:!/honeypot/i
 root:x:*
