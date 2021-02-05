@@ -1,2 +1,20 @@
 #This is a list of common file names and exentions used for fuzzing cnc and malware servers. 
 #You can use tools such as dirbuster, Wfuzz, Etc.
+prv.tgz
+bot.pl
+real.pl
+crypto7.3.tgz
+SBIDIOT
+x86
+mips
+mpsl
+arm
+arm6
+arm7
+ppc
+m68k
+root
+rtk
+sh4
+zte
+SSH
