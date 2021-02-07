@@ -14,8 +14,8 @@ arm7
 ppc
 awoo.sh
 m68k
-Mozi.a # iot malware
-mozi.a # iot malware
+Mozi.a # iot malware spread via RCE on jaws devices
+mozi.a # iot malware spread via RCE on jaws devices
 shell.sh
 bot.sh
 sh
