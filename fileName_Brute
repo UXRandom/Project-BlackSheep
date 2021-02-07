@@ -12,6 +12,7 @@ arm
 arm6
 arm7
 ppc
+a.s
 awoo.sh
 m68k
 Mozi.a # iot malware spread via RCE on jaws devices
