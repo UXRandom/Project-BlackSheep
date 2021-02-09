@@ -1,0 +1,290 @@
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "hong1234",
+  "message": "login attempt [root/hong1234] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:06:23.245000Z",
+  "src_ip": "132.232.6.207",
+  "session": "610e1033b7f6"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "loki",
+  "message": "login attempt [root/loki] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:06:29.761927Z",
+  "src_ip": "51.91.100.109",
+  "session": "3c0d71b1ffd2"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "stone",
+  "message": "login attempt [root/stone] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:07:07.395670Z",
+  "src_ip": "68.183.97.163",
+  "session": "d83b52a2cdec"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "1988",
+  "message": "login attempt [root/1988] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:07:54.658968Z",
+  "src_ip": "91.121.145.227",
+  "session": "8f82abff3895"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "Qazwsx123",
+  "message": "login attempt [root/Qazwsx123] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:08:07.308776Z",
+  "src_ip": "121.4.189.34",
+  "session": "f2f0f0427ee9"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "123@1qaz",
+  "message": "login attempt [root/123@1qaz] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:08:13.094439Z",
+  "src_ip": "123.206.255.181",
+  "session": "c4dc7cb27a8a"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "r0s1T9g0n",
+  "message": "login attempt [root/r0s1T9g0n] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:08:20.804091Z",
+  "src_ip": "51.83.97.245",
+  "session": "be127b632b09"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "1233",
+  "message": "login attempt [root/1233] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:08:26.451669Z",
+  "src_ip": "193.56.252.214",
+  "session": "8ca6b647f482"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "123",
+  "message": "login attempt [root/123] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:08:29.828647Z",
+  "src_ip": "193.56.252.214",
+  "session": "7c562febab84"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "zxc123456",
+  "message": "login attempt [root/zxc123456] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:08:47.769267Z",
+  "src_ip": "5.196.64.61",
+  "session": "eaee3f5f4232"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "123",
+  "message": "login attempt [root/123] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:08:48.887298Z",
+  "src_ip": "193.56.252.214",
+  "session": "5726509d1874"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "1111qqqq",
+  "message": "login attempt [root/1111qqqq] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:08:55.109780Z",
+  "src_ip": "51.91.100.109",
+  "session": "bc3afa2dcc21"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "ABC123!@#",
+  "message": "login attempt [root/ABC123!@#] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:09:10.602888Z",
+  "src_ip": "61.178.178.156",
+  "session": "3195b0548f3a"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "123",
+  "message": "login attempt [root/123] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:09:15.349932Z",
+  "src_ip": "193.56.252.214",
+  "session": "fab8fbac4e4e"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "internet",
+  "message": "login attempt [root/internet] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:09:44.899517Z",
+  "src_ip": "139.155.29.40",
+  "session": "c23beb7659f0"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "delfin",
+  "message": "login attempt [root/delfin] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:09:49.916852Z",
+  "src_ip": "132.232.6.207",
+  "session": "e09c6c0c126b"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "screencast",
+  "message": "login attempt [root/screencast] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:10:23.248051Z",
+  "src_ip": "187.217.39.84",
+  "session": "33a0ac12aa58"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "hansolo",
+  "message": "login attempt [root/hansolo] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:10:49.474908Z",
+  "src_ip": "51.83.97.245",
+  "session": "d4c2ed55e3ce"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "qwerty13",
+  "message": "login attempt [root/qwerty13] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:11:22.425928Z",
+  "src_ip": "51.91.100.109",
+  "session": "b9b2e89d076e"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "1234",
+  "message": "login attempt [root/1234] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:11:28.071956Z",
+  "src_ip": "193.56.252.214",
+  "session": "6080aee6c1a0"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "Password.",
+  "message": "login attempt [root/Password.] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:11:42.952391Z",
+  "src_ip": "132.232.6.207",
+  "session": "a26b6b554582"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "@163.com",
+  "message": "login attempt [root/@163.com] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:12:43.942641Z",
+  "src_ip": "54.38.243.189",
+  "session": "4bb91d3f528a"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "rfvYhn38_",
+  "message": "login attempt [root/rfvYhn38_] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:13:20.439090Z",
+  "src_ip": "121.4.189.34",
+  "session": "c1d89942e3ce"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "12369",
+  "message": "login attempt [root/12369] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:13:36.430984Z",
+  "src_ip": "51.91.100.109",
+  "session": "1c0765d192b6"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "biznet01",
+  "message": "login attempt [root/biznet01] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:13:51.719483Z",
+  "src_ip": "178.128.52.226",
+  "session": "38139f44bc93"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "jose123",
+  "message": "login attempt [root/jose123] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:14:01.730700Z",
+  "src_ip": "175.24.152.153",
+  "session": "96fb33dd1ced"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "P@ssw0rdd",
+  "message": "login attempt [root/P@ssw0rdd] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:14:11.462064Z",
+  "src_ip": "193.95.81.121",
+  "session": "750dbf610fe8"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "undermechallas",
+  "message": "login attempt [root/undermechallas] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:15:37.191279Z",
+  "src_ip": "193.56.252.214",
+  "session": "6f1041a3d7ef"
+}
+{
+  "eventid": "cowrie.login.success",
+  "username": "root",
+  "password": "borussia",
+  "message": "login attempt [root/borussia] succeeded",
+  "sensor": "vps-2c91424d",
+  "timestamp": "2021-02-08T19:15:52.558007Z",
+  "src_ip": "51.91.100.109",
+  "session": "448d7a0255f3"
+}
