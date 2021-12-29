@@ -11,8 +11,6 @@ This includes:
 - User agent string Dictionary for Bots and Crawlers (check UAS)
 - Lists for bruteforcing active cnc/malware servers for common file names.
 
-
-# I deployed the blocklists using pfblockerNG on pfsense 2.4.5-devel, You can use a alternative such as pi-hole however I do not support installs on pi-hole. My recommendation is that  everyone installs this on a *sense based system
-#If you would like to report a false positive or a issue/feature please make a issue request and I will get back to you as soon as possible!  
+If you would like to report a false positive or a issue/feature please make a issue request and I will get back to you as soon as possible!  
 
 "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say." "When you say, 'I have nothing to hide,' you're saying, 'I don't care about this right." - Edward Snowden
