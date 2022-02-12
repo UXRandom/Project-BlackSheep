@@ -1,0 +1,26 @@
+#This is a aggressive list against apple
+127.0.0.1 apple.com
+127.0.0.1 usmsc2-extxfr-001.dns.apple.com
+127.0.0.1 securemetrics.apple.com
+127.0.0.1 Iphone-id.apple.com
+127.0.0.1 Iphone-ld.apple.com
+127.0.0.1 albert.apple.com
+127.0.0.1 app-measurement.com
+127.0.0.1 cf.iadsdk.apple.com
+127.0.0.1 growth-pa.googleapis.com
+127.0.0.1 iadsdk.apple.com
+127.0.0.1 idiagnostics.apple.com
+127.0.0.1 init.gc.apple.com
+127.0.0.1 iphone-ld.apple.com
+127.0.0.1 profile.gc.apple.com
+127.0.0.1 sa.apple.com
+127.0.0.1 smp-device-content.apple.com
+127.0.0.1 securemvt.apple.com
+127.0.0.1 support.apple.com
+127.0.0.1 store.storeimages.cdn-apple.com.edgekey.net
+127.0.0.1 uts-api.itunes.apple.com
+127.0.0.1 uts-api-cdn.itunes-apple.com.akadns.net
+127.0.0.1 gdmf.apple.com.akadns.net
+127.0.0.1 swcdn.apple.com.akadns.net
+127.0.0.1 blobstore-apple.com.akadns.net
+127.0.0.1 ma85-r-analytics.akamaized.net
